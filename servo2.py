@@ -17,14 +17,14 @@ my_servo = servo.Servo(pwm)
 angle = 90
 
 while True:
-    if btn.value:
-        print("BTN1 is down") #when the botton is pushed down
-        angle = angle + 5
+    if btn.value and angle<178:
+        print(angle) #when the botton is pushed down
+        angle = angle +5
         my_servo.angle = angle
    
 
-    if btn2.value:
-        print("BTN2 is down") #if the button is pushed the servo will move
+    if btn2.value and angle>5:
+        print(angle) #if the button is pushed the servo will move
         angle = angle - 5
         my_servo.angle = angle
    
