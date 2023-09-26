@@ -10,7 +10,7 @@ This repository will actually serve as an aid to help you get started with your 
 ## distance sensor 
 
 ### Description & Code Snippets
-frghjgthyuhyihuihi
+In this assignment, we used a distance sensor to make a light change color. The light changed colors by how far my hand was from the sensor. My serial monitor printed off "KEIRA F'ed up" to show that it was working and saw my hand.
 
 ```python
 #josh and computer
@@ -113,8 +113,7 @@ Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
+In conclusion, this was kinda easy but my serial monitor wasn't listening to my sensor which was very annoying. I at first thought it was my wiring so I unwired and rewired just for that not to be the problem. lastly, I thew a fit and of course, and Mr.Helmstetter fixed it!! Turns out it was something in my code.
 
 
 ## CircuitPython_Servo
