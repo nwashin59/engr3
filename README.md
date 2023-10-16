@@ -223,3 +223,36 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
 
+## SWING ARM
+
+### Assignment Description
+This assignment was to get back in the feel of onshape. we used things like Extrude, sketch, fillet, and mating, etc.
+
+### Evidence
+
+Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+
+### Part Link 
+
+## Onshape_Assignment_Template
+
+### Assignment Description
+
+Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+
+### Evidence
+
+Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+
+### Part Link 
+
+
+[ONSHAP LINK](https://cvilleschools.onshape.com/documents/63fdd7a24c6198cc0edb6fcf/w/202c4bfa74ce090cfb622653/e/a72190d31616af386856877b)
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
+
+### Reflection
+
