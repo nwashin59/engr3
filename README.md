@@ -138,6 +138,7 @@ Code goes here
 Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
 For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
 
+![image0 (1)](https://github.com/nwashin59/engr3/assets/143545685/55e82e88-701e-413e-a3e1-b5b30b43a577)
 
 
 Here is how you should give image credit to someone if you use their work:
