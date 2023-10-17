@@ -60,7 +60,6 @@ while True:
 ### Evidence
 ![image1 (1)](https://github.com/nwashin59/engr3/assets/143545685/25693227-4e1e-4b4a-a05e-ee9fcb81c4b7)
 
-![spinningMetro_Optimized](https://user-images.githubusercontent.com/54641488/192549584-18285130-2e3b-4631-8005-0792c2942f73.gif)
 
 
 And here is how you should give image credit to someone if you use their work:
