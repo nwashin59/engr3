@@ -222,36 +222,24 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
 
-## SWING ARM
+## NextAssignment ONSHAPE 
+
+## HANGER
 
 ### Assignment Description
 This assignment was to get back in the feel of onshape. we used things like Extrude, sketch, fillet, and mating, etc.
 
-### Evidence
-
-Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
-
 ### Part Link 
+[ONSHAP LINK](https://cvilleschools.onshape.com/documents/45a9fb19e83d9993db54c31d/w/9740a8f8d38a0a33e7753d6b/e/27caf1af251b6bed86f38b9e?renderMode=0&uiState=65381066db79bb4ed4d81d)2d
 
 ## Onshape_Assignment_Template
 
-### Assignment Description
-
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
 
 ### Evidence
 
-Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
-
-### Part Link 
-
-
-[ONSHAP LINK](https://cvilleschools.onshape.com/documents/63fdd7a24c6198cc0edb6fcf/w/202c4bfa74ce090cfb622653/e/a72190d31616af386856877b)
-### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-&nbsp;
+![Hanger](https://github.com/nwashin59/engr3/assets/143545685/d8d1f170-9a7c-4d8e-961f-eadf97344339)
 
 ### Reflection
+on the hanger assignment It was the first assignment reintroducing onshape. we used almost all the tools we would need on onshape to build our own project. But, I will say the most challenging thing was holes. I struggle with circles because for one I don't enjoy walking, drawing, or onshaping circles, So it was definitely difficult. in all seriousness, This whole assignment was hard because it had been a minute since we did onshape and I can't lie I forgot what I was doing.
+
 
