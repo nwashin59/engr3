@@ -73,18 +73,13 @@ Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com
 Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+
 
 
 ## Hello_CircuitPython
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
 
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
 Code goes here
@@ -107,8 +102,7 @@ Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlyb
 
 
 ### Wiring
-Make an account with your Google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
 In conclusion, this was kinda easy but my serial monitor wasn't listening to my sensor which was very annoying. I at first thought it was my wiring so I unwired and rewired just for that not to be the problem. lastly, I thew a fit and of course, and Mr.Helmstetter fixed it!! Turns out it was something in my code.
@@ -117,8 +111,7 @@ In conclusion, this was kinda easy but my serial monitor wasn't listening to my 
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-I did really well on this because I already had a code from last year to help me. I put a button code and my old Servo code together and it actually worked!!! This one was my best one yet.
-```python
+
 Code goes here
 
 ```
