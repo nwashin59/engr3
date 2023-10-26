@@ -117,13 +117,7 @@ In conclusion, this was kinda easy but my serial monitor wasn't listening to my 
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
+I did really well on this because I already had a code from last year to help me. I put a button code and my old Servo code together and it actually worked!!! This one was my best one yet.
 ```python
 Code goes here
 
