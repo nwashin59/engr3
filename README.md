@@ -247,9 +247,11 @@ on the hanger assignment It was the first assignment reintroducing onshape. we u
 #SWING ARM
 
 ### Assignment Description
-
+In this assignment, we had a video to follow and it was actually much easier for me.
 ### Part Link 
-
+https://cvilleschools.onshape.com/documents/63fdd7a24c6198cc0edb6fcf/w/202c4bfa74ce090cfb622653/e/a72190d31616af386856877b?renderMode=0&uiState=653abb394e90d9537ed2535e 
 ### Evidence
+![swing arm](https://github.com/nwashin59/engr3/assets/143545685/313b599e-8def-4fc7-a420-abb1da7ae6b8)
 
 ### Reflection
+This assignment was easier for me because I had got the hang of onshape and I also had the video. but what was challenging was the dimensions. It was hard for me because I started my skech on the wrong plan and It made my life harder. in conclusion, I didn't have to draw as many circles so I'd say it's a win-win!!
