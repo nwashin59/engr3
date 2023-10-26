@@ -55,7 +55,7 @@ while True:
 
 ```
 
-**Lastly, please end this section with a link to your code or file.**  
+
 
 ### Evidence
 ![image1 (1)](https://github.com/nwashin59/engr3/assets/143545685/25693227-4e1e-4b4a-a05e-ee9fcb81c4b7)
