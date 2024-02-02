@@ -281,6 +281,7 @@ https://cvilleschools.onshape.com/documents/63fdd7a24c6198cc0edb6fcf/w/202c4bfa7
 This assignment was easier for me because I had got the hang of onshape and I also had the video. but what was challenging was the dimensions. It was hard for me because I started my sketch on the wrong plan and It made my life harder. in conclusion, I didn't have to draw as many circles so I'd say it's a win-win!!
 
 Rotary Encoder & LCD
+CODE
 import rotaryio
 import time
 import board
@@ -327,3 +328,5 @@ while True:
      led[0] = (255, 255, 0)
     if menu_index_lcd == 2:
      led[0] = (0, 255, 0)
+
+![image0 (3)](https://github.com/nwashin59/engr3/assets/143545685/2a5c24ed-2cdf-4c29-8dbf-6cd6174c0b7c)
