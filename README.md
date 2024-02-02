@@ -278,4 +278,52 @@ https://cvilleschools.onshape.com/documents/63fdd7a24c6198cc0edb6fcf/w/202c4bfa7
 ![swing arm](https://github.com/nwashin59/engr3/assets/143545685/313b599e-8def-4fc7-a420-abb1da7ae6b8)
 
 ### Reflection
-This assignment was easier for me because I had got the hang of onshape and I also had the video. but what was challenging was the dimensions. It was hard for me because I started my skech on the wrong plan and It made my life harder. in conclusion, I didn't have to draw as many circles so I'd say it's a win-win!!
+This assignment was easier for me because I had got the hang of onshape and I also had the video. but what was challenging was the dimensions. It was hard for me because I started my sketch on the wrong plan and It made my life harder. in conclusion, I didn't have to draw as many circles so I'd say it's a win-win!!
+
+Rotary Encoder & LCD
+import rotaryio
+import time
+import board
+import neopixel
+import digitalio
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+enc = rotaryio.IncrementalEncoder(board.D4, board.D3, divisor=2)
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+led.brightness = 0.3
+led[0] = (255, 0, 0)
+lcd = LCD(I2CPCF8574Interface(board.I2C(), 0x27), num_rows=2, num_cols=16)
+button = digitalio.DigitalInOut(board.D2)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP
+button_state = None
+menu = ["stop", "caution", "go"]
+last_index = None
+menu_index = 0
+
+while True:
+    if not button.value and button_state is None:
+        button_state = "pressed"
+    if button.value and button_state == "pressed":
+        print("Button is pressed")
+        button_state = None
+    menu_index = enc.position
+    #if last_index == None or menu_index != last_index:
+        #print(menu_index)
+    menu_index_lcd = menu_index % 3
+    #print(menu_index_lcd)
+    menu[menu_index_lcd]
+    print(menu[menu_index_lcd])
+    time.sleep(0.2)
+    lcd.set_cursor_pos(0,0)
+    lcd.print("Push For: ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print("          ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print(menu[menu_index_lcd])
+    if menu_index_lcd == 0:
+     led[0] = (255, 0, 0)
+    if menu_index_lcd == 1:
+     led[0] = (255, 255, 0)
+    if menu_index_lcd == 2:
+     led[0] = (0, 255, 0)
