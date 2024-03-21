@@ -330,3 +330,6 @@ while True:
      led[0] = (0, 255, 0)
 
 ![image0 (3)](https://github.com/nwashin59/engr3/assets/143545685/2a5c24ed-2cdf-4c29-8dbf-6cd6174c0b7c)
+
+
+IR SENSOR
