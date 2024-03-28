@@ -388,11 +388,11 @@ while True:
 
 ## Multiple Part
 ![nig](https://github.com/nwashin59/engr3/assets/143545685/82cf3ba5-3fac-4034-89f6-1e4fb08e0aa7) 
-Onshape kinda sucks but for this assignment, we made multiple parts in one drawing. we used Extude and Fillet for certain things.
+Onshape kinda sucks but for this assignment, we made multiple parts in one drawing. we used Extude and Fillet for certain things. 
 
 ## RoBot Gripper 
 ![gripper](https://github.com/nwashin59/engr3/assets/143545685/961d0a4c-92aa-4667-bfed-3cb113aa2ddb) 
-This Assignment Got me ready to do the partner project because instead of creating something new I can just use this as part of the design 
+This Assignment Got me ready to do the partner project because instead of creating something new I can just use this as part of the design. All I need to add is a Base and a code to turn it into my project. 
 
 ## Photointerrupter
 import time
@@ -420,5 +420,5 @@ I don't usually like Onshape but this was not that bad and it looks like an M so
 ![vice](https://github.com/nwashin59/engr3/assets/143545685/e54412c0-71fc-4ec6-b873-7eaae6f5ca3b)
 This was complicated af for no reason just to make a pair of pliers... Of course, I had help from classmates!! 
 ## MICROPHONE
-For this Onshape assignment, I Was just starting it and never got to finish so that's why it looks the way it does does. but it consisted of Figuring out the right mass. 
+For this Onshape assignment, I Was just starting it and never got to finish so that's why it looks the way it does does. but it consisted of Figuring out the right mass. and was going to help with the Onshape certification. 
 ![Microphone](https://github.com/nwashin59/engr3/assets/143545685/41bd7ff9-3356-437f-b0e6-2e1bf52d8f88)
