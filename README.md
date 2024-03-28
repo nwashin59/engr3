@@ -419,3 +419,6 @@ I don't usually like Onshape but this was not that bad and it looks like an M so
 ## VICE GRIPS
 ![vice](https://github.com/nwashin59/engr3/assets/143545685/e54412c0-71fc-4ec6-b873-7eaae6f5ca3b)
 This was complicated af for no reason just to make a pair of pliers... Of course, I had help from classmates!! 
+## MICROPHONE
+For this Onshape assignment, I Was just starting it and never got to finish so that's why it looks the way it does does. but it consisted of Figuring out the right mass. 
+![Microphone](https://github.com/nwashin59/engr3/assets/143545685/41bd7ff9-3356-437f-b0e6-2e1bf52d8f88)
