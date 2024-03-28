@@ -387,5 +387,5 @@ while True:
 ![unnamed](https://github.com/nwashin59/engr3/assets/143545685/15026669-b4a3-4ada-bc40-8e9cb5a0824f)
 
 ## Multiple Part
-![nig](https://github.com/nwashin59/engr3/assets/143545685/82cf3ba5-3fac-4034-89f6-1e4fb08e0aa7)
+![nig](https://github.com/nwashin59/engr3/assets/143545685/82cf3ba5-3fac-4034-89f6-1e4fb08e0aa7) 
 Onshape kinda sucks but for this assignment, we made multiple parts in one drawing. we used Extude and Fillet for certain things.
