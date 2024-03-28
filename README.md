@@ -409,4 +409,5 @@ while True:
     if time.monotonic() - newt >=1:
         newt = time.monotonic()
         print ("the number of interrupts is " + str(counter))
+
 This Phtointerupter Helps count up by one or either down by one. 
