@@ -411,3 +411,7 @@ while True:
         print ("the number of interrupts is " + str(counter))
 
 This Phtointerupter Helps count up by one or either down by one. and Mr.Miller you helped me with this one and you have seen it work i just took it apart right after so there is no picture. Sorryyyyy
+
+## Single Part
+![IMG_7676](https://github.com/nwashin59/engr3/assets/143545685/fb10bfd2-bd07-4604-8a9b-f8432359ae7c)
+I don't usually like Onshape but this was not that bad and it looks like an M so the shape is valid. 
