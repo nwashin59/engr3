@@ -389,3 +389,8 @@ while True:
 ## Multiple Part
 ![nig](https://github.com/nwashin59/engr3/assets/143545685/82cf3ba5-3fac-4034-89f6-1e4fb08e0aa7) 
 Onshape kinda sucks but for this assignment, we made multiple parts in one drawing. we used Extude and Fillet for certain things.
+
+## RoBot Gripper 
+![gripper](https://github.com/nwashin59/engr3/assets/143545685/961d0a4c-92aa-4667-bfed-3cb113aa2ddb) 
+This Assignment Got me ready to do the partner project because instead of creating something new I can just use this as part of the design 
+
