@@ -415,3 +415,7 @@ This Phtointerupter Helps count up by one or either down by one. and Mr.Miller y
 ## Single Part
 ![IMG_7676](https://github.com/nwashin59/engr3/assets/143545685/fb10bfd2-bd07-4604-8a9b-f8432359ae7c)
 I don't usually like Onshape but this was not that bad and it looks like an M so the shape is valid. 
+
+## VICE GRIPS
+![vice](https://github.com/nwashin59/engr3/assets/143545685/e54412c0-71fc-4ec6-b873-7eaae6f5ca3b)
+This was complicated af for no reason just to make a pair of pliers... Of course, I had help from classmates!! 
